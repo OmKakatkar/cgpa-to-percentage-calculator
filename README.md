@@ -7,7 +7,7 @@ The Percentage is calculated as:
 ```      
       if CGPA < 7:
         Percentage = CGPA * 7.2 + 12
-      else if CGPA > 7:
+      else if CGPA >= 7:
         Percentage = CGPA * 7.2 + 12
 ```    
 

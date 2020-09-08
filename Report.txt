@@ -1,0 +1,14 @@
+	John Doe
+
+Semester	CGPA	Percentage
+
+Sem1		6.53	59.02
+Sem2		6.9	61.68
+Sem3		7.32	66.17
+Sem4		7.02	63.95
+Sem5		7.69	68.91
+Sem6		7.83	69.94
+Sem7		8.52	75.05
+Sem8		8.65	76.01
+
+Average		7.56	67.59
